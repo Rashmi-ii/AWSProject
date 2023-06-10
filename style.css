@@ -61,7 +61,7 @@ nav ul li a:hover{
     position: relative;
     background-repeat: no-repeat;
     background-size: cover;
-    background-image: url(../images/bg.jpg);
+    background-image: url(bg.jpg);
 }
 .main-heading{
     width: 500px;
@@ -213,4 +213,3 @@ nav ul li a:hover{
 .contact-btn{
     margin-top: 40px;
 }
-Footer
